@@ -1,13 +1,13 @@
 const { Client, Collection } = require("discord.js");
 const { readdirSync, readdir } = require("fs");
 const config = require("./config.json")
-
+/////LibraDVLP
 const client = global.client = new Client({
     intents: 32767,
     presence: { activities: [{ name: config.presence.name, type: config.presence.type }] }
 })
 require("./structures/function")(client);
-
+/////LibraDVLP
 //Event Handler
 const eventFiles = readdirSync('./events').filter(file => file.endsWith('.js'));
 for (const file of eventFiles) {
@@ -83,7 +83,7 @@ client.load = command => {
                 client.aliases.set(alias, cmd.name);
             });
             resolve();
-        }
+        }//////LibraDVLP
         catch (e) {
             reject(e);
         }
