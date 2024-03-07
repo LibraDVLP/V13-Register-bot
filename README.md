@@ -12,19 +12,3 @@ Sunucularınızda kullanmanız için kodlanmış bu bot Kayıt/Register botu pro
 6) Dizayn ettiğiniz config.json dosyasını kaydedip PowerShell penceresine "node app.js" yazın ve "Enter" basın.
 7) Tokenini girmiş olduğunuz bot sunucuda ekliyse çalışmaya başlayacaktır.
 
-# Önemli
-
-● Projeden kod kullanacaksanız cr verin.
-
-● Botun config dosyasını ayarlarken dosyadaki notlara dikkat ettin.
-
-● Bir sorunla karşılaşırsanız discord üzerinden bana ulaşabilirsiniz.
-
-● Projeyi yıldızlamayı unutmayın :)
-
-
-# İletişim!
-
-● Discord: [vsanctus](https://discord.gg/MEdUDMSTMx)
-
-● Websitem: https://sanct.me
